@@ -1,1 +1,3 @@
 # ADHD_Hosted
+
+ADHD_Hosted is a digital platform designed to support individuals with Attention Deficit Hyperactivity Disorder (ADHD) by offering structured, engaging, and distraction-minimized experiences. Whether used for learning, screening, or skill-building games like those for dyscalculia, the platform emphasizes short, goal-oriented sessions, clear instructions, instant feedback, and customizable settings to accommodate varying attention spans and sensory preferences. By combining adaptive gameplay with ADHD-friendly design principles—such as visual clarity, auditory support, and progress tracking—ADHD_Hosted creates a safe and motivating space for neurodiverse users to thrive.
